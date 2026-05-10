@@ -1,18 +1,29 @@
 {
-  
   "student": [
-    { 
-      
-
-
-    
-    "id": "1223343",
-     "name": "nnnn", 
-     "email":" nnn@gmail.com",
-     "cell no":"1210131",
-     "fee":"1000" }
-
-  ]
-  
-  
+    {
+      "id": "1223343",
+      "name": "nnnn",
+      "email": " nnn@gmail.com",
+      "cell no": "1210131",
+      "fee": "1000"
+    },
+    {
+      "id": "3rUfyxEfqXk"
+    },
+    {
+      "name": "masud",
+      "email": " masud@gmail.com",
+      "cell no": "12121212",
+      "fee": "5000",
+      "id": "iYYOhz68V1U"
+    },
+    {
+      "name": "hhhh",
+      "email": " hhhh@gmail.com",
+      "cell no": "12121212",
+      "fee": "5000",
+      "id": "o3Zp7nAXc90"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
